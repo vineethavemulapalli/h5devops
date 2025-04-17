@@ -1,0 +1,14 @@
+DEVOPS/
+├── app.py
+├── test.py
+├── Dockerfile
+├── .dockerignore
+├── requirements.txt
+├── flask.yaml
+├── templates/
+│   └── register.html
+└── static/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── script.js
